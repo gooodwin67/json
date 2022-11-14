@@ -189,7 +189,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "catId": 2,
       "name": "Adidas shoes",
       "photo": "assets/images/adi1.png",
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 6,
       "catId": 2,
       "name": "Adidas shoes",
       "photo": "assets/images/adi2.png",
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 7,
       "catId": 2,
       "name": "Adidas shoes",
       "photo": "assets/images/adi3.png",
